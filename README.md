@@ -1,7 +1,7 @@
 # Minecraft Toy Box(mcbox)
 *A lightweight, cross-platform Minecraft toolbox*
 ![license](https://img.shields.io/badge/license-MIT%20License-lightgrey)
-![PythonVersion] (https://img.shields.io/badge/Python-3.4%2B-green)
+![PythonVersion](https://img.shields.io/badge/Python-3.4%2B-green)
 
 ## Prerequisites
 1. Python3.4+
